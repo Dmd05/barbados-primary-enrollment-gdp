@@ -1,0 +1,14 @@
+{
+    "Year": {
+        "data_type": "integer",
+        "description": "Year of Observation"
+    },
+    "Primary Enrollment": {
+        "data_type": "categorical",
+        "description": " The total of primary school enrollments for the country of Barbados"
+    },
+    "GDP": {
+        "data_type": "float64",
+        "description": " Gross Domestic Product per capita in USD"
+    }
+}
